@@ -5,7 +5,7 @@ int main()
     int opcao;
 
     // Menu
-    printf("===== Super Trunfo - Paises =====\n");
+    printf("===== Super Trunfo - Estados =====\n");
     printf("1. Iniciar Jogo\n");
     printf("2. Regras\n");
     printf("3. Sair\n");
